@@ -5,7 +5,7 @@ public class Assignment_6 {
 	public static void main(String[] args) {
 		// TASK 1 : create an array to store fruits name
 		// TASK 2 :to store prices
-		// TASK 3 :to store excel values
+		// TASK 3 :to store excel values(10X5)
 		// for read
 		
 		String[] fruit= {"Apple","Grapes","Pears","Mango","Litchi"};
